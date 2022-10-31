@@ -1,14 +1,17 @@
 body{
-    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    background-color: #EEE5E9;
 }
 
 .card{
 padding: 20px;
 display: flex;
-justify-content:space-around;
+justify-content: space-around;
+align-items: center;
 width: 400px;
-margin: 0 auto;
-text-align: center;
 color: #2b2839;
 background: #ddebf8;
 border-bottom: 5px solid #d8cefe;
